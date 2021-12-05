@@ -14,6 +14,4 @@ Spring Boot app contains:
 9.  Lombok, Builder, JavaStreams
 10. Postman testing API client
 
-Project isn' t complex but showing a lot of things helping devlopment
-
 
